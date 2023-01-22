@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahimAliyev
-- 👀 I’m interested in  Full-stack development and Game development
-- 🌱 I’m currently learning : Full-stack developmet
+- 👀 I love to code , coding is a part of my life
+- 🌱 I’m  a  Front-end developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: You can reach me via 0aliyevrahim1@gmail.com this email
 
